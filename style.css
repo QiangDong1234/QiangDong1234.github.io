@@ -1,0 +1,18 @@
+body {
+background-image: url("myBackground.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+#nav-table { width: 800px;}
+#nav-td {width:200px; text-align:center;}
+p{color: black;}
+h2 {color:black;}
+
+#qiangdong {margin-left:100px }
+
+#td {margin-left:125px;}
+
+p {margin-left:20px;}
+
+h2{margin-left:60px; }
